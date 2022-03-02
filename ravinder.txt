@@ -11,3 +11,9 @@
 2022년03월02일 기록
 - 메타마스크 지갑에서 faucet 하기를 배움 , 요즘 이더리움 네트워크가 바빠서 잘 안됨
 https://ethereum-blockchain-developer.com/001-metamask-install/00-overview/
+
+gotcha
+메타마스크는 Infura 라는 provide가 있어서 블록체인 노드들과 상호작용 할수 있는것이다.
+
+gotcha
+어드레스에 접근하기 위해서는 프라이빗키와 퍼블릭키라는것이 있어서 블록체인과 연결되는것이다.
