@@ -19,3 +19,4 @@ https://ethereum-blockchain-developer.com/001-metamask-install/00-overview/
 
 -◆지갑의 프라이빗키만 알면 , 해당 계정에 접근해서 돈을 마음대로 꺼낼수 있다.
 
+-암호화라는것은 인풋이 유사해도 아웃풋이 엄청나게 달라진것이고 , 아웃풋으로 인풋을 찾을수 없는것이다.
