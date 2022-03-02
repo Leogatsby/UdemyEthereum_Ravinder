@@ -10,3 +10,4 @@
 ㅁ수강일지 기록
 2022년03월02일 기록
 - 메타마스크 지갑에서 faucet 하기를 배움 , 요즘 이더리움 네트워크가 바빠서 잘 안됨
+https://ethereum-blockchain-developer.com/001-metamask-install/00-overview/
